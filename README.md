@@ -1,5 +1,5 @@
 # Analytics for Hospitals Health-Care Data
-![Picture1](https://github.com/thejagadeesh/Analytics-For-Hospitals-Healthcare-Data/assets/114074976/9644181c-0cfb-428d-830b-30a1e0ea47ce)
+![HC](https://github.com/thejagadeesh/Analytics-For-Hospitals-Healthcare-Data/assets/114074976/f6d176bd-9008-492b-8117-be4d21b0177a)
 
 ## Project Overview
 ## Objective
@@ -9,7 +9,8 @@ The primary objective of this project was to leverage data analytics techniques 
 To accomplish this project, we utilized cutting-edge tools and technologies including IBM Cognos Analytics, DB2 Database, and Excel, Github, Google collaboratory. These robust platforms provided us with the capabilities to perform comprehensive healthcare data analysis and derive meaningful insights.
 
 ## Healthcare Insights Dashboard: 
-![Screenshot](https://github.com/thejagadeesh/Analytics-For-Hospitals-Healthcare-Data/assets/114074976/6c0dcd7e-7a10-423a-85fd-c3ffb8f71107)
+![Dashboard](https://github.com/thejagadeesh/Analytics-For-Hospitals-Healthcare-Data/assets/114074976/7fbbb79e-9a22-4c70-aae5-7ce1f276869f)
+
 ## Please find the link below to access the Cognos Analytics Dashboard:
 
 https://us3.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2FDashboard&action=view&mode=dashboard
