@@ -1,4 +1,6 @@
 # Analytics for Hospitals Health-Care Data
+![Picture6](https://github.com/thejagadeesh/Analytics-For-Hospitals-Healthcare-Data/assets/114074976/df17414e-b418-4838-bcdb-cf16becaa612)
+
 ## Project Overview
 ## Objective
 The primary objective of this project was to leverage data analytics techniques to improve healthcare management efficiency in hospitals, specifically focusing on predicting and optimizing patient length of stay. Through insightful analysis, the aim was to empower hospitals to make data-driven decisions for resource allocation and enhance overall functioning.
